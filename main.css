@@ -1,0 +1,15 @@
+html {
+  font-size: 22px
+}
+
+body {
+background-color: black;
+color: aliceblue;
+}
+
+table, tr, th, td, caption {
+  border: 1px solid #eee;
+  font-family: 'courier new', courier, monospace;
+  border-collapse: collapse;
+  padding: 0.5rem;
+}
